@@ -5,6 +5,8 @@ This GitHub Repository acts as a sharing platform to support students of the Mod
 
 
 ---
-> ###### Last update: 16/6/21 dbe - added data files for MEP (FS21)
+> #### MEP Aufgabe: XXXX
 
 https://github.com/sawubona-gmbh/KETE-HS20-WORK/tree/master/LB6a-WebServices
+* Excel Sheet with the Apple Sales and Revenue Data for the fiscal years 2014-20202
+ 
