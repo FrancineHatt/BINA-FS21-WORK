@@ -10,7 +10,7 @@ This GitHub Repository acts as a sharing platform to support students of the Mod
 * Excel Sheet with the Apple Sales and Revenue Data for the fiscal years 2014-20202  
 https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_Visualization-APPLE-sales-and-revenue-2014-2020.xlsx
 
-![Visualization Data](https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_Visualization-APPLE-sales-and-revenue-2014-2020.xlsx)
+![Visualization Data](https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/zImages/DATA_Visualization-APPLE-sales-and-revenue-2014-2020.jpg)
 
 ---
 > ### MEP Aufgabe: Process Mining / Event Log Data
