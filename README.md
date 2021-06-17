@@ -24,4 +24,4 @@ https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_Process%20Discove
 * Excel Sheet with the Confusion Matrix Data  
 https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_MachineLearning-ConfusionMatrix.xlsx  
 
-![Confusion Data]() 
+![Confusion Data](https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/zImages/DATA_MachineLearning-ConfusionMatrix.jpg) 
