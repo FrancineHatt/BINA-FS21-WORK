@@ -12,8 +12,7 @@ https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_Visualization-APP
 ---
 > #### MEP Aufgabe: Process Discovery from Event Log Data
 * Excel Sheet with the Event Log Data  
-https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_Visualization-APPLE-sales-and-revenue-2014-2020.xlsx
-
+https://github.com/sawubona-gmbh/BINA-FS21-WORK/blob/main/DATA_Process%20Discovery%20from%20Event%20Log%20Data.xlsx
 ---
 > #### MEP Aufgabe: Machine Learning / Confusion Matrix
 * Excel Sheet with the Confusion Matrix Data  
